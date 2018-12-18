@@ -1,0 +1,2 @@
+requirements:
+    - arrow==0.12.1

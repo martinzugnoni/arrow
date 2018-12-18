@@ -96,6 +96,17 @@ And then:
     
 Further documentation can be found at `arrow.readthedocs.org <http://arrow.readthedocs.org/en/latest/>`_
 
+
+Demo
+----
+
+Try ``arrow`` interactively using this online demo:
+
+.. image:: https://user-images.githubusercontent.com/1155573/49400125-16e73500-f722-11e8-9275-e1d7eb3bbf99.png
+    :target: https://notebooks.rmotr.com/demo/gh/martinzugnoni/arrow
+    :alt: Open Live Demo
+
+
 Contributing
 ------------
 
